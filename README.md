@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-Smart - NSIA avec GNANFON Hugues
